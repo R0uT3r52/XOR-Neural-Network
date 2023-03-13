@@ -1,0 +1,4 @@
+﻿  Neuro.cpp
+C:\C++\Neuro\Neuro.cpp(27,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\C++\Neuro\Neuro.cpp(69,38): warning C4305: инициализация: усечение из "double" в "float"
+  Neuro.vcxproj -> C:\C++\Neuro\x64\Debug\Neuro.exe
